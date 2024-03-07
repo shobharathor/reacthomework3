@@ -1,0 +1,40 @@
+.main{
+    background-color: rgb(233, 78, 104);
+    width: 100%;
+    padding: 20px 20px;
+    line-height: 2;
+}
+
+.title > h5{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 15px 15px;
+    color: aliceblue;
+}
+.title > p{
+    display: flex;
+    justify-content: center;
+    padding: 15px 15px;
+    color: aliceblue;
+    text-align: center;
+    font-size: small;
+    line-height: 1;
+    padding: 10px 10px;
+}
+
+.btn {
+ display: flex;
+ justify-content: center;
+ gap: 5px;
+ padding: 10px 10px;
+}
+button{
+    padding: 10px 10px;
+    background-color: transparent;
+    color: aliceblue;
+    border-color: aliceblue;
+}
+.p1{
+    color: rgb(235, 123, 142);
+}

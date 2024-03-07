@@ -1,0 +1,18 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    line-height: 0;
+}
+
+.footerlast > p{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding: 8px 8px;
+
+}
+.ptag{
+    text-align: center;
+}
